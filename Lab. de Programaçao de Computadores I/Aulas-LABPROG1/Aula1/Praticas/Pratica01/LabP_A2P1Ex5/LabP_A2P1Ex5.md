@@ -1,7 +1,26 @@
-1. Considerando o enunciado a seguir, descreva de forma lógica a cor dos vestidos de três senhoras. Qual é a cor do vestido de cada senhora?
-Enunciado:
+# 5. Receber três notas, calcular e mostrar a média aritmética entre elas. Mostre o resultado na tela.
+## Para esta questão, elabore a descrição narrativa, fluxograma, pseudocódigo e verifique seu algoritmo com o teste de mesa.  Entregue a descrição narrativa e pseudocódigo.
 
-Três senhoras – dona Branca, dona Rosa e dona Violeta – passeavam pelo parque quando dona Rosa disse: Não é curioso que estejamos vestidas de cores branca, rosa e violeta, embora nenhuma de nós esteja usando um vestido de cor igual ao próprio nome?
+## Descrição Narrativa
+### O algoritmo começa solicitando ao usuário que informe três notas. Após o usuário digitar essas notas, o programa soma os três valores e divide o resultado por 3, calculando a média aritmética. Por fim, o programa exibe a média calculada na tela.
 
-Uma simples coincidência, respondeu a senhora com o vestido violeta.
+# Pseudocódigo
+```
+Início
 
+    Escreva "Digite a primeira nota:"
+    Leia nota1
+
+    Escreva "Digite a segunda nota:"
+    Leia nota2
+
+    Escreva "Digite a terceira nota:"
+    Leia nota3
+
+    media ← (nota1 + nota2 + nota3) / 3
+
+    Escreva "A média aritmética é:", media
+
+Fim
+
+```

@@ -29,12 +29,13 @@ Escrever ResultadoD
 Escrever ResultadoE
 
 Fim
+
 ```
 
 
-# Python
+# Código Python
 
-```python   
+```python  
 # A)
 resultado_a = 5 * 6 - 3
 

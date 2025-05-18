@@ -1,7 +1,24 @@
-1. Considerando o enunciado a seguir, descreva de forma lógica a cor dos vestidos de três senhoras. Qual é a cor do vestido de cada senhora?
-Enunciado:
+# 6. Somar 2 números quaisquer e multiplicar o resultado pelo primeiro número.
+## Para esta questão, elabore a descrição narrativa, fluxograma, pseudocódigo e verifique seu algoritmo com o teste de mesa.
 
-Três senhoras – dona Branca, dona Rosa e dona Violeta – passeavam pelo parque quando dona Rosa disse: Não é curioso que estejamos vestidas de cores branca, rosa e violeta, embora nenhuma de nós esteja usando um vestido de cor igual ao próprio nome?
+## Descrição Narrativa
+### O algoritmo inicia pedindo ao usuário que digite dois números quaisquer. Em seguida, ele soma esses dois números e armazena o resultado. Depois, o programa multiplica o resultado da soma pelo primeiro número informado. Por fim, exibe o resultado final dessa multiplicação.
 
-Uma simples coincidência, respondeu a senhora com o vestido violeta.
+# Pseudocódigo
+```
+Início
 
+    Escreva "Digite o primeiro número:"
+    Leia numero1
+
+    Escreva "Digite o segundo número:"
+    Leia numero2
+
+    soma ← numero1 + numero2
+
+    resultado ← soma * numero1
+
+    Escreva "O resultado final é:", resultado
+
+Fim
+```
