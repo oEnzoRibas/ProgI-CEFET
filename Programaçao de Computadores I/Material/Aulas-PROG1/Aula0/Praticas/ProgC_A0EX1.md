@@ -1,0 +1,33 @@
+# Exercício 1:  Elabore e escreva os passos para mover 5 discos na torre de Hanói da haste a para b.
+
+## Mover disco 1 de a para b
+## Mover disco 2 de a para c
+## Mover disco 1 de b para c
+## Mover disco 3 de a para b
+## Mover disco 1 de c para a
+## Mover disco 2 de c para b
+## Mover disco 1 de a para b
+## Mover disco 4 de a para c
+## Mover disco 1 de b para c
+## Mover disco 2 de b para a
+## Mover disco 1 de c para a
+## Mover disco 3 de b para c
+## Mover disco 1 de a para b
+## Mover disco 2 de a para c
+## Mover disco 1 de b para c
+## Mover disco 5 de a para b
+## Mover disco 1 de c para a
+## Mover disco 2 de c para b
+## Mover disco 1 de a para b
+## Mover disco 3 de c para a
+## Mover disco 1 de b para c
+## Mover disco 2 de b para a
+## Mover disco 1 de c para a
+## Mover disco 4 de c para b
+## Mover disco 1 de a para b
+## Mover disco 2 de a para c
+## Mover disco 1 de b para c
+## Mover disco 3 de a para b
+## Mover disco 1 de c para a
+## Mover disco 2 de c para b
+## Mover disco 1 de a para b
